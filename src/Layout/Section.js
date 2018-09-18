@@ -7,13 +7,13 @@ class Section extends Component {
     }
 
     render() {
-
+return (
         <section class = {this.props.class}>
 
         {this.props.children}
 
         </section>
-
+)
     }
 }
 
