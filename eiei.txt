@@ -1,0 +1,2 @@
+npm install yarn
+yarn create react-app ชื่อแอพของเรา
